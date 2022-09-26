@@ -41,7 +41,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-* [Netlify](https://redisign-page-blizzard.netlify.app/)
+* [Netlify](https://flappy-bird-gamep.netlify.app/)
  
 ## 🎁 Expressões de gratidão
 
