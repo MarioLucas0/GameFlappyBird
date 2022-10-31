@@ -41,7 +41,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-* [Netlify](https://flappybird23.netlify.app/)
+* [Netlify](https://gameflappybird-ten.vercel.app/)
  
 ## 🎁 Expressões de gratidão
 
